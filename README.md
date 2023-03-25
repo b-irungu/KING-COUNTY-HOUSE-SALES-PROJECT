@@ -23,5 +23,12 @@ from the analysis, the two features that had the highest coeffient were `waterfr
 From these analysis the following conclusions were drawn
 
 * Based on the coeeficients, the most important variables in predicting the price of houses are the grade and the waterfront of the property.
-Condition, number of bedrooms and bathrooms also have a significant positive impact on the price.
+* Condition, number of bedrooms and bathrooms also have a significant positive impact on the price.
 * The Number of floors in a house seems to have a negative impact on the price of the house. the more the number of floors the less the price of the houseF
+
+**BUSINESS RECCOMMENDATIONS**
+
+* The real estate investor should focus on properties with higher grades and those located on waterfronts as they have the highest coefficients and therefore, will likely have a higher resale value.
+* Properties with a good condition, higher number of bedrooms and bathrooms are also likely to have a positive impact on the price.
+* The number of floors in a house seems to have a negative impact on the price of the house, so the investor should be cautious when considering multi-story properties.
+* The investor consider the interaction between variables when making investment decisions. For example, a waterfront property with a high grade and good condition may have a higher resale value than a waterfront property with a low grade and poor condition.
