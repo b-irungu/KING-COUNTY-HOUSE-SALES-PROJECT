@@ -1,2 +1,3 @@
+![house image](https://user-images.githubusercontent.com/122228492/227741769-043e60f5-2e7f-4c6c-b937-4e7d34dc31db.PNG)
 # KING-COUNTY-HOUSE-SALES-PROJECT
 KING COUNTY HOUSE SAES PROJECT
